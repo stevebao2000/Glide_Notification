@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glide and Notification</string>
+    <string name="disp_note">Click a image to display a notification.</string>
+    <string name="check_note_img">Watch the change of notification icons.</string>
+    <string name="moresample">More Glide and Notification Samples</string>
+    <string name="sample">Glide and Picasso Sample</string>
+</resources>
